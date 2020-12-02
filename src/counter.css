@@ -1,0 +1,19 @@
+.Counter{
+    width:300px;
+    border:2px solid black;
+    height: 300px;
+    position: relative;
+    margin: 50px
+}
+#increment,#refresh,#decrement{
+    width:33.3%;
+    height:60px;
+    background:black;
+    color: white;
+    position: relative;
+    bottom: 30px;
+}
+#number{
+    font-size: 100px;
+    text-align: center;
+}
